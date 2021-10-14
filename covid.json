@@ -1,0 +1,202 @@
+{
+    "covid19": [
+        {
+            "id": 0,
+            "district": "India",
+            "confirmed": "2,07,653",
+            "recoverd": "3,33,42,901",
+            "death": "4,51,189"
+        },
+        {
+            "id": 1,
+            "district": "Andhra Pradesh",
+            "confirmed": "2058582",
+            "recoverd": "2037691",
+            "death": "14276"
+        },
+        {
+            "id": 2,
+            "district": "Arunachal Pradesh",  
+            "confirmed": "54954",
+            "recoverd": "54450",
+            "death": "280"
+        },
+        {
+            "id": 3,
+            "district": "Assam",
+            "confirmed": "605640",
+            "recoverd": "595901",
+            "death": "5936"
+        },
+        {
+            "id": 4,
+            "district": "Bihar",
+            "confirmed": "726008",
+            "recoverd": "716311",
+            "death": "9661"
+        },
+        {
+            "id": 5,
+            "district": "Chandigarh",
+            "confirmed": "65285",
+            "recoverd": "64428",
+            "death": "820"
+        },
+        {
+            "id": 6,
+            "district": "Goa",
+            "confirmed": "177288",
+            "recoverd": "173303",
+            "death": "3333"
+        },
+        {
+            "id": 7,
+            "district": "Gujarat",
+            "confirmed": "826210",
+            "recoverd": "815929",
+            "death": "10086"
+        },
+        {
+            "id": 8,
+            "district": "Haryana",
+            "confirmed": "771019",
+            "recoverd": "760881",
+            "death": "9875"
+        },
+        {
+            "id": 9,
+            "district": "Himachal Pradesh",
+            "confirmed": "220931",
+            "recoverd": "215838",
+            "death": "3711"
+        },
+        {
+            "id": 10,
+            "district": "Jammu and Kashmir",
+            "confirmed": "330741",
+            "recoverd": "325369",
+            "death": "4426"
+        },
+        {
+            "id": 11,
+            "district": "Jharkhand",   
+            "confirmed": "348395",
+            "recoverd": "343134",
+            "death": "5135"
+
+        },
+        {
+            "id": 12,
+            "district": "Karnataka",
+            "confirmed": "2982089",
+            "recoverd": "2934523",
+            "death": " 37916"
+        },
+        {
+            "id": 13,
+            "district": "Kerala",
+            "confirmed": "4820698",
+            "recoverd": "4695904",
+            "death": "26571"
+        },
+        {
+            "id": 14,
+            "district": "Maharashtra",
+            "confirmed": "6583896",
+            "recoverd": "6411075",
+            "death": "139670"
+        },
+        {
+            "id": 15,
+            "district": "Manipur",
+            "confirmed": "122363",
+            "recoverd": "119015",
+            "death": "1889"
+        },
+        {
+            "id": 16,
+            "district": "Meghalaya",
+            "confirmed": "82647",
+            "recoverd": "80296",
+            "death": "1428"
+        },
+        {
+            "id": 17,
+            "district": "Mizoram",
+            "confirmed": "109818",
+            "recoverd": "95412",
+            "death": "370"
+        },
+        {
+            "id": 18,
+            "district": "Madhya Pradesh",
+            "confirmed": "792657",
+            "recoverd": "782024",
+            "death": "10523"
+        },
+        {
+            "id": 19,
+            "district": "Nagaland",
+            "confirmed": "31507",
+            "recoverd": "30596",
+            "death": "673"
+        },
+        {
+            "id": 20,
+            "district": "Odisha",
+            "confirmed": "1033288",
+            "recoverd": "1020168",
+            "death": "8268"
+        },
+        {
+            "id": 21,
+            "district": "Punjab",
+            "confirmed": "601938",
+            "recoverd": "585183",
+            "death": "16532"
+        },
+        {
+            "id": 22,
+            "district": "Rajasthan",
+            "confirmed": "954374",
+            "recoverd": "945384",
+            "death": "8954"
+        },
+        {
+            "id": 23,
+            "district": "Sikkim",
+            "confirmed": "31716",
+            "recoverd": "31101",
+            "death": "390"
+        },
+        {
+            "id": 24,
+            "district": "Tamil Nadu",
+            "confirmed": "2682137",
+            "recoverd": "2630654",
+            "death": "35833"
+        },
+        {
+            "id": 24,
+            "district": "Tripura",
+            "confirmed": "84291",
+            "recoverd": "83357",
+            "death": "816"
+        },
+        {
+            "id": 24,
+            "district": "Uttar Pradesh",
+            "confirmed": "1709996",
+            "recoverd": "1686960",
+            "death": "22897"
+        },
+        {
+            "id": 24,
+            "district": "Uttarakhand",
+            "confirmed": "343701",
+            "recoverd": "336151",
+            "death": "7397"
+        }
+
+    ]
+}
