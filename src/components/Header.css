@@ -1,0 +1,25 @@
+.main-header{
+    background-color: black;
+    display:flex;
+    height: 70px;
+    padding-left:30px;
+    width: 100%;   
+    padding-bottom: 13px;
+}
+
+
+.row{
+    color:white;
+    margin-left: 50px;
+    padding-top: 15px; 
+    
+}
+.heading{
+    color:white;
+    margin-left: 40px;
+    padding-top: 15px;
+}
+/* .na{
+    color:white;
+    text-decoration: none;
+} */
